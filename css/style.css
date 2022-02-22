@@ -127,7 +127,7 @@ h6 {
   /* Legacy iOS */
 }
 .headerlog {
-  background: url(/img/bgheader.jpg) center no-repeat;
+  background: url(../img/bgheader.jpg) center no-repeat;
   height: 910px;
   width: 1440px;
   position: relative;
@@ -161,7 +161,7 @@ div {
 }
 
 .logo {
-  background: url(/img/logo.png) right no-repeat;
+  background: url(../img/logo.png) right no-repeat;
   height: 50px;
   width: 50px;
   position: absolute;
@@ -170,7 +170,7 @@ div {
 }
 
 .logo:hover {
-  background: url(/img/logo_hover.png) right no-repeat;
+  background: url(../img/logo_hover.png) right no-repeat;
   height: 50px;
   width: 50px;
   position: absolute;
@@ -503,7 +503,7 @@ div {
   height: 1145px;
 }
 .pictures .img1 {
-  background: url(/img/portfol/portfolio-img1.png) center no-repeat;
+  background: url(../img/portfol/portfolio-img1.png) center no-repeat;
   width: 450px;
   height: 560px;
   margin: 250px 0 0 20px;
@@ -511,7 +511,7 @@ div {
   transition: 0.3s;
 }
 .pictures .img2 {
-  background: url(/img/portfol/portfolio-img.jpg) center no-repeat;
+  background: url(../img/portfol/portfolio-img.jpg) center no-repeat;
   width: 450px;
   height: 560px;
   margin: -560px 0 0 490px;
@@ -519,7 +519,7 @@ div {
   transition: 0.3s;
 }
 .pictures .img3 {
-  background: url(/img/portfol/portfolio-img3.png) center no-repeat;
+  background: url(../img/portfol/portfolio-img3.png) center no-repeat;
   width: 450px;
   height: 560px;
   margin: -560px 0 0 960px;
@@ -527,7 +527,7 @@ div {
   transition: 0.3s;
 }
 .pictures .img4 {
-  background: url(/img/portfol/portfolio4.png) center no-repeat;
+  background: url(../img/portfol/portfolio4.png) center no-repeat;
   width: 450px;
   height: 560px;
   margin: 10px 0 0 20px;
@@ -535,7 +535,7 @@ div {
   transition: 0.3s;
 }
 .pictures .img5 {
-  background: url(/img/portfol/portfolio5.png) center no-repeat;
+  background: url(../img/portfol/portfolio5.png) center no-repeat;
   width: 450px;
   height: 560px;
   margin: -560px 0 0 490px;
@@ -543,7 +543,7 @@ div {
   transition: 0.3s;
 }
 .pictures .img6 {
-  background: url(/img/portfol/portfolio6.png) center no-repeat;
+  background: url(../img/portfol/portfolio6.png) center no-repeat;
   width: 450px;
   height: 560px;
   margin: -560px 0 0 960px;
@@ -556,21 +556,21 @@ div {
   position: relative;
 }
 .mainimage3 .imageplayer {
-  background: url(/img/video-player.png) center no-repeat;
+  background: url(../img/video-player.png) center no-repeat;
   height: 700px;
   width: 1440px;
   margin: 50px 0 0 0;
 }
 .mainimage3 .imageplayer .playerbut {
   position: absolute;
-  background: url(/img/Play_hover.png) center no-repeat;
+  background: url(../img/Play_hover.png) center no-repeat;
   height: 130px;
   width: 130px;
   top: 500px;
   left: 660px;
 }
 .mainimage3 .imageplayer .playerbut:hover {
-  background: url(/img/Play_hover2.png) center no-repeat;
+  background: url(../img/Play_hover2.png) center no-repeat;
   height: 130px;
   width: 130px;
 }
@@ -723,7 +723,7 @@ div {
 .bg3 {
   height: 700px;
   width: 1440px;
-  background: url(/img/contacts.jpg) center no-repeat;
+  background: url(../img/contacts.jpg) center no-repeat;
   margin: 100px -491px;
   position: relative;
 }
